@@ -1,0 +1,5 @@
+{
+  "comfyui_url": "http://127.0.0.1:8188",
+  "output_directory": "./output",
+  "retry_count": 3
+}
